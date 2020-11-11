@@ -1,0 +1,11 @@
+{
+  "name": "contact-form-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "deploy": "sls deploy"
+  },
+  "author": "Dmitry Grinko",
+  "license": "ISC"
+}
